@@ -12,5 +12,6 @@ The methods are implemented as MATLAB functions, with each function in a separat
 
 In the ./test/ folder, a test script can be found. This script includes an exemplar usage of all method implementations based on a published dataset for a PV cell.
 
-In the case that this repository is going to be used for academic purposes, please refer to
+In the case that this repository is going to be used for academic purposes, please refer to:
+
 S. Bader, X. Ma, B. Oelmann, "One-diode photovoltaic model parameters at indoor illumination levels - A comparison", Solar Energy, vol. 180, pp. 707-716, 2019, https://doi.org/10.1016/j.solener.2019.01.048
